@@ -1,0 +1,75 @@
+.main {
+	font-family: Calibri;
+	width: 80%;
+	margin: auto;
+}
+
+
+.navbar {
+	padding: 20px;
+	background-color: #3f506b;
+	display: flex;
+}
+
+.logo {
+	width: 30%;
+}
+
+.logo a {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 24px
+}
+
+
+.links {
+	width: 70%;
+}
+
+
+.link_list {
+	float: right;
+}
+
+.link_list a {
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	margin-left: 20px
+}
+
+.content {
+	min-height: 700px;
+	display: flex;
+}
+
+.leftbar {
+	width: 20%;
+	background-color: red;
+}
+
+.centerbar {
+	width: 50%;
+	background-color: purple;
+}
+
+.rightbar {
+	width: 30%;
+	background-color: green;
+}
+
+
+
+
+
+
+.footer {
+	padding: 10px;
+	background-color: black;
+}
+
+.copyright {
+	color: white;
+	text-align: center;
+}
